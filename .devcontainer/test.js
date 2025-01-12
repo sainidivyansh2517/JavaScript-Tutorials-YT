@@ -1,1 +1,1 @@
-console.log("This is Divyansh!")
+console.log("This is Divyansh and this is my first code in js")
